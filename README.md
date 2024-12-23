@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>Moonbloom Dark Theme</h1>
+  <p>Gentle on the eyes, evoking the cozy tranquility of a serene night.</p>
+  <p>Designed to be unobtrusive during daily use while still being beautiful to work with.</p>
+  <span><a href="https://moonbloom.teplostanski.dev">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a> • <a href="https://donate.teplostanski.dev">Support Us</a></span>
+</div>
+
 ## Basic Color Palette
 
 | Palette    | Hex       | RGB             | HSL             |                                          |
@@ -42,3 +49,24 @@
 | Yellow bright      | `#E8C87E` | ![Yellow bright Color](./colors/E8C87E.svg)  | 10.63:1 👍  | 10.15:1 👍 | 8.87:1 👍  | 7.78:1 👍 | 6.56:1 👍 |
 | Gray               | `#9B9BBA` | ![Gray Color](./colors/9B9BBA.svg)           | 6.37:1 👍   | 6.08:1 👍  | 5.32:1 👍  | 4.66:1 👍 | 3.93:1    |
 | Gray bright        | `#E1E2ED` | ![Gray bright Color](./colors/E1E2ED.svg)    | 13.33:1 👍  | 12.73:1 👍 | 11.13:1 👍 | 9.76:1 👍 | 8.23:1 👍 |
+
+## Accessibility [![W3C](https://img.shields.io/badge/WCAG_2.1_|_AA-A1D79F?logo=w3c&logoColor=fff&style=flat-square)](https://www.w3.org/TR/WCAG21/#contrast-minimum)
+
+All primary text colors have a contrast ratio of `4.5:1` or higher against the default background `#1E1F27`, meeting [WCAG 2.1 | Level AA](https://www.w3.org/TR/WCAG21/#contrast-minimum) standards. The only exceptions are colors intentionally designed to be subtle, such as `Comment` and `Disabled`.
+
+## Maintainer
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/teplostanski" title="Игорь Теплостанский">
+        <img src="https://avatars.githubusercontent.com/u/56846024?v=4" width="42;" alt="Игорь Теплостанский"/>
+      <br /><sub><b>Игорь Теплостанский</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## License
+
+[MIT License](./LICENSE) © Moonbloom Theme
