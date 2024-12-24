@@ -1,0 +1,9 @@
+[submodule "themes/termux"]
+	path = themes/termux
+	url = git@github.com:moonbloom-theme/termux.git
+[submodule "themes/zsh"]
+	path = themes/zsh
+	url = git@github.com:moonbloom-theme/zsh.git
+[submodule "themes/vivaldi"]
+	path = themes/vivaldi
+	url = git@github.com:moonbloom-theme/vivaldi.git
