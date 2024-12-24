@@ -54,6 +54,12 @@
 
 All primary text colors have a contrast ratio of `4.5:1` or higher against the default background `#1E1F27`, meeting [WCAG 2.1 | Level AA](https://www.w3.org/TR/WCAG21/#contrast-minimum) standards. The only exceptions are colors intentionally designed to be subtle, such as `Comment` and `Disabled`.
 
+## Clone repo
+
+```sh
+git clone --recurse-submodules https://github.com/moonbloom-theme/moonbloom.git
+```
+
 ## Maintainer
 
 <table>
