@@ -9,7 +9,7 @@
 
 | Palette    | Hex       | RGB             | HSL             |                                          |
 | ---------- | --------- | --------------- | --------------- | ---------------------------------------- |
-| Background | `#1E1F27` | `30, 31, 39`    | `233, 13%, 14%` | ![Background Color](./colors/1E1F27.svg) |
+| Background | `#1D1E27` | `30, 31, 39`    | `233, 13%, 14%` | ![Background Color](./colors/1D1E27.svg) |
 | Foreground | `#D1D2E8` | `209, 210, 232` | `237, 33%, 86%` | ![Foreground Color](./colors/D1D2E8.svg) |
 | Comment    | `#8282A9` | `130, 130, 169` | `240, 18%, 59%` | ![Comment Color](./colors/8282A9.svg)    |
 | Cyan       | `#4FA8B8` | `79, 168, 184`  | `189, 43%, 52%` | ![Cyan Color](./colors/4FA8B8.svg)       |
@@ -27,7 +27,7 @@
 | Background 100     | `#3D3D50` | ![Background 100 Color](./colors/3D3D50.svg) | -           | -          | -          | -         | -         |
 | Background 200     | `#323242` | ![Background 200 Color](./colors/323242.svg) | -           | -          | -          | -         | -         |
 | Background 300     | `#292936` | ![Background 300 Color](./colors/292936.svg) | -           | -          | -          | -         | -         |
-| Background DEFAULT | `#1E1F27` | ![Background 400 Color](./colors/1E1F27.svg) | -           | -          | -          | -         | -         |
+| Background DEFAULT | `#1D1E27` | ![Background 400 Color](./colors/1D1E27.svg) | -           | -          | -          | -         | -         |
 | Background 500     | `#1A1B21` | ![Background 500 Color](./colors/1A1B21.svg) | -           | -          | -          | -         | -         |
 | Border             | `#3F3F52` | ![Foreground Color](./colors/3F3F52.svg)     | -           | -          | -          | -         | -         |
 | Foreground         | `#D1D2E8` | ![Foreground Color](./colors/D1D2E8.svg)     | 11.53:1 👍  | 11.01:1 👍 | 9.62:1 👍  | 8.44:1 👍 | 7.11:1 👍 |
@@ -52,7 +52,7 @@
 
 ## Accessibility [![W3C](https://img.shields.io/badge/WCAG_2.1_|_AA-A1D79F?logo=w3c&logoColor=fff&style=flat-square)](https://www.w3.org/TR/WCAG21/#contrast-minimum)
 
-All primary text colors have a contrast ratio of `4.5:1` or higher against the default background `#1E1F27`, meeting [WCAG 2.1 | Level AA](https://www.w3.org/TR/WCAG21/#contrast-minimum) standards. The only exceptions are colors intentionally designed to be subtle, such as `Comment` and `Disabled`.
+All primary text colors have a contrast ratio of `4.5:1` or higher against the default background `#1D1E27`, meeting [WCAG 2.1 | Level AA](https://www.w3.org/TR/WCAG21/#contrast-minimum) standards. The only exceptions are colors intentionally designed to be subtle, such as `Comment` and `Disabled`.
 
 ## Clone repo
 
