@@ -7,3 +7,9 @@
 [submodule "themes/vivaldi"]
 	path = themes/vivaldi
 	url = https://github.com/moonbloom-theme/vivaldi.git
+[submodule "themes/alacritty"]
+	path = themes/alacritty
+	url = https://github.com/moonbloom-theme/alacritty.git
+[submodule "themes/visual-studio-code"]
+	path = themes/visual-studio-code
+	url = https://github.com/moonbloom-theme/visual-studio-code.git
