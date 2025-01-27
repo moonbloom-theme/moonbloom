@@ -8,9 +8,13 @@
 
 A color theme for applications, terminals, and development tools inspired by the tranquility of nighttime, designed for comfortable, eye-friendly work.
 
-Imagine customizing all your tools (Visual Studio Code editor, terminals like Alacritty or iTerm2, zsh shell, and other applications) with a unified, eye-pleasing color palette inspired by the serene atmosphere of nighttime.
+Imagine customizing all your tools (`Visual Studio Code` editor, terminals like `Alacritty` or `iTerm2`, `zsh` shell, and other applications) with a unified, eye-pleasing color palette inspired by the serene atmosphere of nighttime.
 
 The core mission of this project is to reduce eye strain during long coding sessions by creating a comfortable and cozy programming environment. Just as moonlight gently illuminates the night landscape, this theme provides a balanced color combination that helps you stay focused on your work without unnecessary eye fatigue.
+
+## Available Themes
+
+See the full list of available themes [here](./THEMES.md).
 
 ## Basic Color Palette
 
@@ -59,7 +63,7 @@ All primary text colors have a contrast ratio of `4.5:1` or higher against the d
 | Yellow             | `#D9B469` | ![Yellow Color](./colors/D9B469.svg)         | 8.82:1 👍   | 8.43:1 👍  | 7.29:1 👍  | 6.39:1 👍 | 5.39:1 👍 |
 | Yellow bright      | `#E8C87E` | ![Yellow bright Color](./colors/E8C87E.svg)  | 10.73:1 👍  | 10.25:1 👍 | 8.87:1 👍  | 7.78:1 👍 | 6.56:1 👍 |
 | Gray               | `#9B9BBA` | ![Gray Color](./colors/9B9BBA.svg)           | 6.43:1 👍   | 6.15:1 👍  | 5.32:1 👍  | 4.66:1 👍 | 3.93:1    |
-| Gray bright        | `#E1E2ED` | ![Gray bright Color](./colors/E1E2ED.svg)    | 13.46:1 👍  | 12.86:1 👍 | 11.13:1 👍 | 9.76:1 👍 | 8.23:1 👍 |
+| Gray bright        | `#E1E2ED` | ![Gray bright Color](./colors/E1E2ED.svg)    | 13.46:1 👍  | 12.86:1  | 11.13:1 👍 | 9.76:1 👍 | 8.23:1 👍 |
 
 ## Clone repo
 
