@@ -1,5 +1,9 @@
 {
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate-themes-list": "node scripts/generate-themes-list.js",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
   }
 }
