@@ -3,7 +3,7 @@
   <h1>Moonbloom Dark Theme</h1>
   <p>Gentle on the eyes, evoking the cozy tranquility of a serene night.</p>
   <p>Designed to be unobtrusive during daily use while still being beautiful to work with.</p>
-  <span><a href="https://moonbloom.teplostanski.dev">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a> • <a href="https://donate.teplostanski.dev">Support Us</a></span>
+  <span><a href="https://moonbloom.teplostan.ski">Website</a> • <a href="https://github.com/orgs/moonbloom-theme/discussions">Discussions</a> • <a href="https://donate.teplostan.ski">Support Us</a></span>
 </div>
 
 A color theme for applications, terminals, and development tools inspired by the tranquility of nighttime, designed for comfortable, eye-friendly work.
